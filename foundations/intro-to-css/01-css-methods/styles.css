@@ -1,0 +1,15 @@
+* {
+  color: #fff;
+}
+
+div {
+  background-color: red;
+  color: #fff;
+  text-align: center;
+  font-size: 32px !important;
+  font-weight: bold;
+}
+button {
+  background-color: orange;
+  color: #000;
+}
